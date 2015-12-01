@@ -1,5 +1,5 @@
 <html>
-<head> <title> CapGemini DevOps CoE </title> 
+<head> <title> CapGemini DevOps </title> 
 <style>
 
 #outer_layout {
