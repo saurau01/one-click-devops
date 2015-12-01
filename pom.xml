@@ -8,6 +8,7 @@
   <name>one-click</name>
   <url>http://maven.apache.org</url>
   
+  <build>
   <plugins>
 	<plugin>
     <groupId>org.apache.maven.plugins</groupId>
@@ -23,6 +24,7 @@
     </executions>
 	</plugin>
   </plugins>
+  </build>
   
   <dependencies>
     <dependency>
