@@ -16,7 +16,7 @@
       <execution>
          <phase>package</phase>
          <configuration>
-           <webXml>src/main/One_Click/WEB-INF/web.xml</webXml>
+           <failOnMissingWebXml>false</failOnMissingWebXml>
          </configuration>
       </execution>
     </executions>
