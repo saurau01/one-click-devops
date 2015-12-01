@@ -83,11 +83,11 @@ height:10px;
 <div id='outer_layout'>
 	<div id='header'>
 		<div id='capg'>
-			<img id='img' src='WEB-INF/classes/images/capgemini.jpg'>
+			<img id='img' src='/var/lib/tomcat6/webapps/One_Click-1/WEB-INF/classes/images/capgemini.jpg'>
 		</div>
 		<h1 id='head'> CapGemini DevOps Team </h1>
 	</div>
-	<div id="app_fake" style="background-image: url(WEB-INF/classes/images/capgemini1.jpg);background-repeat: no-repeat; background-position:center; opacity: 0.1;">
+	<div id="app_fake" style="background-image: url(/var/lib/tomcat6/webapps/One_Click-1/WEB-INF/classes/images/capgemini1.jpg);background-repeat: no-repeat; background-position:center; opacity: 0.1;">
 	</div>
 	<div id="app">
 		<div id='tab'  style='margin:4% 4% 4% 4%; align:center;'>
