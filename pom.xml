@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.app</groupId>
-  <artifactId>one-click</artifactId>
+  <artifactId>One_Click</artifactId>
   <packaging>war</packaging>
   <version>1.3-Test DeploymentDEMO for Unicredit</version>
-  <name>one-click</name>
+  <name>One_Click</name>
   <url>http://maven.apache.org</url>
   
   <build>
@@ -18,7 +18,7 @@
       <execution>
          <phase>package</phase>
          <configuration>
-			<webXml>maven.war.webxml</webXml>
+			<webXml>src\main\One_Click\WEB-INF\web.xml</webXml>
            <failOnMissingWebXml>false</failOnMissingWebXml>
          </configuration>
       </execution>
