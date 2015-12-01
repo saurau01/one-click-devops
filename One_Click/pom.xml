@@ -4,7 +4,7 @@
   <groupId>com.example.app</groupId>
   <artifactId>One_Click</artifactId>
   <packaging>war</packaging>
-  <version>One_Click</version>
+  <version>1.0</version>
   <name>One_Click</name>
   <url>http://maven.apache.org</url>
   
@@ -13,8 +13,9 @@
    <plugin> 
   <groupId>org.apache.maven.plugins</groupId>
   <artifactId>maven-war-plugin</artifactId>
+  <version>1.0</version>
   <configuration>
-    <webXml>One_Click\WebContent\WEB-INF\web.xml</webXml> 	
+    <webXml>src\main\webapp\WEB-INF\web.xml</webXml> 	
   </configuration>
 	</plugin>
   </plugins>
