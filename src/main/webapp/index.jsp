@@ -85,13 +85,13 @@ height:10px;
 		<div id='capg'>
 			<img id='img' src='resources\images\capgemini.jpg'>
 		</div>
-		<h1 id='head'> CapGemini DevOps Team </h1>
+		<h1 id='head'> Sample Application for OneClick Deployment </h1>
 	</div>
 	<div id="app_fake" style="background-image: url(capgemini1.jpg);background-repeat: no-repeat; background-position:center; opacity: 0.1;">
 	</div>
 	<div id="app">
 		<div id='tab'  style='margin:4% 4% 4% 4%; align:center;'>
-			<h2 id='h'> Welcome to Capgemini Devops team's - One Click Deployment Test </h2>
+			<h2 id='h'> This is the output of one click Deployment using automated framework devloped by Capgemini Middleware CoE. </h2>
 		</div>
 	</div>
 </div>
