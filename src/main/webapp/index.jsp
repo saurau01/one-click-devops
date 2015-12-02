@@ -1,5 +1,5 @@
 <html>
-<head> <title>OneClick Deployment</title> 
+<head> <title>One-Click Deployment</title> 
 <style>
 
 #outer_layout {
